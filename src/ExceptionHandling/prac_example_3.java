@@ -10,7 +10,7 @@ public class prac_example_3 {
 		
 		try
 		{
-			int k=x/0;
+		//	int k=x/0;
 			int l=Integer.parseInt(z);
 			System.out.println("try-block");
 		}
